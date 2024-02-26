@@ -1,5 +1,5 @@
  const Layout = () => {
-    return (<div>HOLA</div>)
+    return (<div className="w-full h-full">HOLA</div>)
 }
 
 export default Layout
